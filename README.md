@@ -1,4 +1,6 @@
-# Code setup for [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+# neural-networks-coursera-setup
+
+## Code & data setup for [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 
 Includes couple of Jupyter notebooks
 Notebooks can be run with Jupyter Octave kernel
